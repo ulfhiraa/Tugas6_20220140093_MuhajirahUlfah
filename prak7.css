@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(255, 255, 255);
+    background-image: url(https://i.pinimg.com/736x/89/64/21/896421bf87f314e8da1480291f743f26.jpg);
+
+ 
+ h1{
+    font-family: optima;
+    font-size: 50px;
+    font-style:calc();
+ }
+ h2{
+    font-family:Garamond;
+    font-size: 35px;
+    letter-spacing: 1px;
+            text-transform: uppercase;
+            text-align: center;
+            border: 2px solid rgb(222, 226, 231);
+            background: rgb(250, 226, 243);
+            box-shadow: 1px 1px 2px;
+            border-radius: 10px;
+            padding: 3px 10px;
+            cursor:pointer;
+ }
+}
